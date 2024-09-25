@@ -1,0 +1,5 @@
+Timestamp,Container,CPU%,Memory Usage,Net I/O,Block I/O,PIDs
+2024-09-25 12:08:55,playwright_container,97.80%,259MiB / 19.51GiB,859B / 1.5kB,0B / 242kB,106
+2024-09-25 12:08:59,playwright_container,0.40%,266.5MiB / 19.51GiB,7.54kB / 2.49kB,0B / 242kB,109
+2024-09-25 12:09:02,playwright_container,0.46%,266.4MiB / 19.51GiB,7.58kB / 2.53kB,0B / 242kB,109
+2024-09-25 12:09:06,playwright_container,0.00%,0B / 0B,0B / 0B,0B / 0B,0
